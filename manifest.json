@@ -1,0 +1,1 @@
+{"name":"Minibus Misfits Zombie","short_name":"Misfits Zombie","description":"A storybook game and touch-first mission prototype.","start_url":"./index.html","scope":"./","display":"standalone","orientation":"landscape","background_color":"#171a16","theme_color":"#171a16","icons":[{"src":"GameCover.png","sizes":"any","type":"image/png","purpose":"any maskable"}]}

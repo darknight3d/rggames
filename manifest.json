@@ -1,1 +1,15 @@
-{"name":"Minibus Misfits Zombie","short_name":"Misfits Zombie","description":"A storybook game and touch-first mission prototype.","start_url":"./index.html","scope":"./","display":"standalone","orientation":"landscape","background_color":"#171a16","theme_color":"#171a16","icons":[{"src":"GameCover.png","sizes":"any","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "minibus-misfits-zombie",
+  "name": "MINIBUS MISFITS ZOMBIE",
+  "short_name": "MISFITS ZOMBIE",
+  "description": "An illustrated storybook and touch-first minibus zombie mission prototype.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#171a16",
+  "theme_color": "#171a16",
+  "icons": [
+    {"src":"GameCover.png","sizes":"any","type":"image/png","purpose":"any maskable"}
+  ]
+}
